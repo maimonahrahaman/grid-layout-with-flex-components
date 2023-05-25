@@ -38,9 +38,12 @@
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: flex-end;
-    /* align-items: center; */
   }
 
   .icon {
     align-self: center;
+  }
+  
+  p {
+    flex-grow: 1;
   }
